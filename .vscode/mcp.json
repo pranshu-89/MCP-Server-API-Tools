@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "monkeyserver": {
+        "type": "stdio",
+        "command": "dotnet",
+        "args": [
+            "run",
+            "--project",
+            "D:/FoxSupport-ITSM/ITSM_MCP_Server/MCPServer/MCPServer.csproj"
+        ]
+    }
+  }
+}
